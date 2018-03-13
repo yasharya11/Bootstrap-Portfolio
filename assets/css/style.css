@@ -381,3 +381,7 @@ input[type=submit] {
   /* Visual */
   border: 0 none;
 }
+
+#contentBox {
+  background-color: #fff;
+}
